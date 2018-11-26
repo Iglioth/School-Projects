@@ -1,0 +1,10 @@
+c:\users\lars\source\repos\FUN12Oefeningen\DagenVanDeWeekKlassen1\bin\Debug\DagenVanDeWeekKlassen1.exe.config
+c:\users\lars\source\repos\FUN12Oefeningen\DagenVanDeWeekKlassen1\bin\Debug\DagenVanDeWeekKlassen1.exe
+c:\users\lars\source\repos\FUN12Oefeningen\DagenVanDeWeekKlassen1\bin\Debug\DagenVanDeWeekKlassen1.pdb
+c:\users\lars\source\repos\FUN12Oefeningen\DagenVanDeWeekKlassen1\obj\Debug\DagenVanDeWeekKlassen1.csprojResolveAssemblyReference.cache
+c:\users\lars\source\repos\FUN12Oefeningen\DagenVanDeWeekKlassen1\obj\Debug\DagenVanDeWeekKlassen1.Properties.Resources.resources
+c:\users\lars\source\repos\FUN12Oefeningen\DagenVanDeWeekKlassen1\obj\Debug\DagenVanDeWeekKlassen1.csproj.GenerateResource.Cache
+c:\users\lars\source\repos\FUN12Oefeningen\DagenVanDeWeekKlassen1\obj\Debug\DagenVanDeWeekKlassen1.csproj.CoreCompileInputs.cache
+c:\users\lars\source\repos\FUN12Oefeningen\DagenVanDeWeekKlassen1\obj\Debug\DagenVanDeWeekKlassen1.exe
+c:\users\lars\source\repos\FUN12Oefeningen\DagenVanDeWeekKlassen1\obj\Debug\DagenVanDeWeekKlassen1.pdb
+c:\users\lars\source\repos\FUN12Oefeningen\DagenVanDeWeekKlassen1\obj\Debug\DagenVanDeWeekKlassen1.NummersNaarDagen.resources

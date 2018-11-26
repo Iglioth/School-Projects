@@ -1,0 +1,9 @@
+c:\users\lars\source\repos\FUN12Oefeningen\RandomGetallenAKlassen1\bin\Debug\RandomGetallenAKlassen1.exe.config
+c:\users\lars\source\repos\FUN12Oefeningen\RandomGetallenAKlassen1\bin\Debug\RandomGetallenAKlassen1.exe
+c:\users\lars\source\repos\FUN12Oefeningen\RandomGetallenAKlassen1\bin\Debug\RandomGetallenAKlassen1.pdb
+c:\users\lars\source\repos\FUN12Oefeningen\RandomGetallenAKlassen1\obj\Debug\RandomGetallenAKlassen1.Properties.Resources.resources
+c:\users\lars\source\repos\FUN12Oefeningen\RandomGetallenAKlassen1\obj\Debug\RandomGetallenAKlassen1.RandomGetallenFormA.resources
+c:\users\lars\source\repos\FUN12Oefeningen\RandomGetallenAKlassen1\obj\Debug\RandomGetallenAKlassen1.csproj.GenerateResource.Cache
+c:\users\lars\source\repos\FUN12Oefeningen\RandomGetallenAKlassen1\obj\Debug\RandomGetallenAKlassen1.csproj.CoreCompileInputs.cache
+c:\users\lars\source\repos\FUN12Oefeningen\RandomGetallenAKlassen1\obj\Debug\RandomGetallenAKlassen1.exe
+c:\users\lars\source\repos\FUN12Oefeningen\RandomGetallenAKlassen1\obj\Debug\RandomGetallenAKlassen1.pdb

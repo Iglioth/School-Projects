@@ -1,0 +1,10 @@
+c:\users\lars\source\repos\FUN12Oefeningen\TextPaster\bin\Debug\TextPaster.exe.config
+c:\users\lars\source\repos\FUN12Oefeningen\TextPaster\bin\Debug\TextPaster.exe
+c:\users\lars\source\repos\FUN12Oefeningen\TextPaster\bin\Debug\TextPaster.pdb
+c:\users\lars\source\repos\FUN12Oefeningen\TextPaster\obj\Debug\TextPaster.csprojResolveAssemblyReference.cache
+c:\users\lars\source\repos\FUN12Oefeningen\TextPaster\obj\Debug\TextPaster.Form1.resources
+c:\users\lars\source\repos\FUN12Oefeningen\TextPaster\obj\Debug\TextPaster.Properties.Resources.resources
+c:\users\lars\source\repos\FUN12Oefeningen\TextPaster\obj\Debug\TextPaster.csproj.GenerateResource.Cache
+c:\users\lars\source\repos\FUN12Oefeningen\TextPaster\obj\Debug\TextPaster.csproj.CoreCompileInputs.cache
+c:\users\lars\source\repos\FUN12Oefeningen\TextPaster\obj\Debug\TextPaster.exe
+c:\users\lars\source\repos\FUN12Oefeningen\TextPaster\obj\Debug\TextPaster.pdb

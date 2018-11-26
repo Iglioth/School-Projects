@@ -1,0 +1,7 @@
+c:\users\lars\source\repos\FUN12Oefeningen\FUN12Oefeningen\obj\Debug\FUN12Oefeningen.csprojResolveAssemblyReference.cache
+c:\users\lars\source\repos\FUN12Oefeningen\FUN12Oefeningen\obj\Debug\FUN12Oefeningen.csproj.CoreCompileInputs.cache
+c:\users\lars\source\repos\FUN12Oefeningen\FUN12Oefeningen\bin\Debug\FUN12Oefeningen.exe.config
+c:\users\lars\source\repos\FUN12Oefeningen\FUN12Oefeningen\bin\Debug\FUN12Oefeningen.exe
+c:\users\lars\source\repos\FUN12Oefeningen\FUN12Oefeningen\bin\Debug\FUN12Oefeningen.pdb
+c:\users\lars\source\repos\FUN12Oefeningen\FUN12Oefeningen\obj\Debug\FUN12Oefeningen.exe
+c:\users\lars\source\repos\FUN12Oefeningen\FUN12Oefeningen\obj\Debug\FUN12Oefeningen.pdb

@@ -1,0 +1,7 @@
+c:\users\lars\source\repos\FUN12Oefeningen\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\lars\source\repos\FUN12Oefeningen\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\lars\source\repos\FUN12Oefeningen\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\lars\source\repos\FUN12Oefeningen\ConsoleApp1\obj\Debug\HalloConsoleDictaat.csprojResolveAssemblyReference.cache
+c:\users\lars\source\repos\FUN12Oefeningen\ConsoleApp1\obj\Debug\HalloConsoleDictaat.csproj.CoreCompileInputs.cache
+c:\users\lars\source\repos\FUN12Oefeningen\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\lars\source\repos\FUN12Oefeningen\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
