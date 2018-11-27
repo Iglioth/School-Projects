@@ -9,7 +9,7 @@ namespace FUN12Oefeningen
     class Speler
     {
         private string Naam; private int AantalLevens; private int Score;
-
+        
         public void SetNaam(string naam) { Naam = naam; }
 
         public void SetAantalLevens(int levens) { AantalLevens = levens; }
