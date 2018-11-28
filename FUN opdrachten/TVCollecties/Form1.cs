@@ -39,9 +39,9 @@ namespace TVCollecties
         private void BInfo_Click(object sender, EventArgs e)
         {
             
-
+           
         }
-
+        
         private void BRight_Click(object sender, EventArgs e)
         {
             Tv.ActiveChannel = Tv.ActiveChannel + 1;
