@@ -16,32 +16,34 @@ namespace TextHandling
         public FileHandlingForm()
         {
             InitializeComponent();
-            PopulateListBox(LBC, @"C:\", "");
+            PopulateListBox(LBC, @"C:\", "", "Directory");
         }
 
         private void LBC_SelectedIndexChanged(object sender, EventArgs e)
         {
-
+            PopulateListBox(LBCFurther, @"C:\" + LBC.SelectedItem + @"\", "", "File");
         }
 
-        private void PopulateListBox(ListBox lsb, string Folder, string FileType)
+        private void PopulateListBox(ListBox lsb, string Folder, string FileType, string type)
         {
             DirectoryInfo dinfo = new DirectoryInfo(Folder);
-            FileInfo[] Files = dinfo.GetFiles(FileType);
-            foreach (FileInfo file in Files)
+            if (type == "Directory")
             {
-                lsb.Items.Add(file.Name);
+                
+                DirectoryInfo[] Maps = dinfo.GetDirectories();
+                foreach (DirectoryInfo map in Maps)
+                {
+                    lsb.Items.Add(map.Name);
+                }
+            }
+            else if (type == "File")
+            {
+                FileInfo[] Files = dinfo.GetFiles();
+                foreach (FileInfo file in Files)
+                {
+                    lsb.Items.Add(file.Name);
+                }
             }
         }
     }
 }
-/*string path = @"c:\Test1234.txt";
-            if (File.Exists(path))
-            {
-                using (StreamReader sr = File.OpenText(path))
-                {
-                    string s;
-                    while ((s = sr.ReadLine()) != null)
-                    {
-                        LBC.Items.Add(s);
-                    }*/
