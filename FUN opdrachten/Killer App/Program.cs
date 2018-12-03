@@ -16,7 +16,7 @@ namespace Killer_App
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FKIllerApp());
+            Application.Run(new FLogIn());
         }
     }
 }
