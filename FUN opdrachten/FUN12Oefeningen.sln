@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandABKlassen1", "BandAKlas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseOefeningDatabases4", "DatabaseOefeningDatabases4\DatabaseOefeningDatabases4.csproj", "{FBA49C4A-8309-4B56-9E29-F1A503FDD8A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TV", "TV\TV.csproj", "{45D55986-70D2-4A42-86F0-D43950667B01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{FBA49C4A-8309-4B56-9E29-F1A503FDD8A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBA49C4A-8309-4B56-9E29-F1A503FDD8A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBA49C4A-8309-4B56-9E29-F1A503FDD8A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45D55986-70D2-4A42-86F0-D43950667B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D55986-70D2-4A42-86F0-D43950667B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D55986-70D2-4A42-86F0-D43950667B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D55986-70D2-4A42-86F0-D43950667B01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
