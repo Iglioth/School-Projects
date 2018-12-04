@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Killer_App
 {
-    public partial class Challenges : Form
+    public partial class FChallenges : Form
     {
-        public Challenges()
+        public FChallenges()
         {
             InitializeComponent();
         }

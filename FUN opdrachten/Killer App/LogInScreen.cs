@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Killer_App
 {
-    public partial class FKIllerApp : Form
+    public partial class FLogIn : Form
     {
-        public FKIllerApp()
+        public FLogIn()
         {
             InitializeComponent();
         }

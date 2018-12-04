@@ -1,6 +1,6 @@
 ﻿namespace Killer_App
 {
-    partial class Challenges
+    partial class FChallenges
     {
         /// <summary>
         /// Required designer variable.
@@ -30,13 +30,13 @@
         {
             this.SuspendLayout();
             // 
-            // Challenges
+            // FChallenges
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(338, 678);
-            this.Name = "Challenges";
-            this.Text = "Form2";
+            this.Name = "FChallenges";
+            this.Text = "Challenges";
             this.ResumeLayout(false);
 
         }
