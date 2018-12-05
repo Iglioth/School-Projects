@@ -21,14 +21,15 @@ namespace TextHandling
 
         private void LBC_SelectedIndexChanged(object sender, EventArgs e)
         {
-
+            LBCFurther.Items.Clear();
+            PopulateListBox(LBCFurther, @"C:\" + LBC.SelectedItem.ToString(), "");
         }
 
         private void PopulateListBox(ListBox lsb, string Folder, string FileType)
         {
             DirectoryInfo dinfo = new DirectoryInfo(Folder);
-            FileInfo[] Files = dinfo.GetFiles(FileType);
-            foreach (FileInfo file in Files)
+            DirectoryInfo[] Maps = dinfo.GetDirectories();
+            foreach (DirectoryInfo file in Maps)
             {
                 lsb.Items.Add(file.Name);
             }

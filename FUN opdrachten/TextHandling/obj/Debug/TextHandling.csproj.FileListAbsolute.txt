@@ -7,3 +7,4 @@ C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TextHandling\obj\D
 C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TextHandling\obj\Debug\TextHandling.csproj.CoreCompileInputs.cache
 C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TextHandling\obj\Debug\TextHandling.exe
 C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TextHandling\obj\Debug\TextHandling.pdb
+C:\Users\Lars\Documents\GitHub\School-Projects\FUN opdrachten\TextHandling\obj\Debug\TextHandling.csprojAssemblyReference.cache
