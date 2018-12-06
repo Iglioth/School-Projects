@@ -23,7 +23,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVCollecties", "TVCollectie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextHandling", "TextHandling\TextHandling.csproj", "{3AC3737D-6253-4CB6-B3F3-B3C2D5DAD510}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Killer App", "Killer App\Killer App.csproj", "{F158C9C5-ED2D-4733-B01E-98C82062C7E4}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KillerApp", "WindowsFormsApp1\KillerApp.csproj", "{4888AEAA-3493-43C5-8221-27D8DCB3369C}"
+>>>>>>> f5ff8ced138a86cabfc6bdb8786edfb4c89d58e5
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,10 +75,17 @@ Global
 		{3AC3737D-6253-4CB6-B3F3-B3C2D5DAD510}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AC3737D-6253-4CB6-B3F3-B3C2D5DAD510}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AC3737D-6253-4CB6-B3F3-B3C2D5DAD510}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{F158C9C5-ED2D-4733-B01E-98C82062C7E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F158C9C5-ED2D-4733-B01E-98C82062C7E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F158C9C5-ED2D-4733-B01E-98C82062C7E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F158C9C5-ED2D-4733-B01E-98C82062C7E4}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{4888AEAA-3493-43C5-8221-27D8DCB3369C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4888AEAA-3493-43C5-8221-27D8DCB3369C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4888AEAA-3493-43C5-8221-27D8DCB3369C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4888AEAA-3493-43C5-8221-27D8DCB3369C}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> f5ff8ced138a86cabfc6bdb8786edfb4c89d58e5
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
