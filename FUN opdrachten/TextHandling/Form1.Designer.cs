@@ -60,6 +60,7 @@
             this.Controls.Add(this.LBC);
             this.Name = "FileHandlingForm";
             this.Text = "Verkenner";
+            this.Load += new System.EventHandler(this.FileHandlingForm_Load);
             this.ResumeLayout(false);
 
         }
