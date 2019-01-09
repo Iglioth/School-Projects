@@ -1,7 +1,6 @@
 C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TVCollecties\bin\Debug\TVCollecties.exe.config
 C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TVCollecties\bin\Debug\TVCollecties.exe
 C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TVCollecties\bin\Debug\TVCollecties.pdb
-C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TVCollecties\obj\Debug\TVCollecties.csprojResolveAssemblyReference.cache
 C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TVCollecties\obj\Debug\TVCollecties.Properties.Resources.resources
 C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TVCollecties\obj\Debug\TVCollecties.csproj.GenerateResource.Cache
 C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TVCollecties\obj\Debug\TVCollecties.csproj.CoreCompileInputs.cache

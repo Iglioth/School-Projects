@@ -1,0 +1,7 @@
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\FUN12Oefeningen\bin\Debug\FUN12Oefeningen.exe.config
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\FUN12Oefeningen\bin\Debug\FUN12Oefeningen.exe
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\FUN12Oefeningen\bin\Debug\FUN12Oefeningen.pdb
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\FUN12Oefeningen\obj\Debug\SpelerOefeningKlassenDictaat.csprojResolveAssemblyReference.cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\FUN12Oefeningen\obj\Debug\SpelerOefeningKlassenDictaat.csproj.CoreCompileInputs.cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\FUN12Oefeningen\obj\Debug\FUN12Oefeningen.exe
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\FUN12Oefeningen\obj\Debug\FUN12Oefeningen.pdb

@@ -86,23 +86,11 @@
             // 
             this.LBChallenges.FormattingEnabled = true;
             this.LBChallenges.ItemHeight = 16;
-            this.LBChallenges.Items.AddRange(new object[] {
-            "Hallo",
-            "SH",
-            "srrgsdg",
-            "sr",
-            "hsr",
-            "gf",
-            "h",
-            "s",
-            "ghhdr",
-            "yw",
-            "a",
-            "fj"});
-            this.LBChallenges.Location = new System.Drawing.Point(2, 81);
+            this.LBChallenges.Location = new System.Drawing.Point(1, 80);
             this.LBChallenges.Name = "LBChallenges";
-            this.LBChallenges.Size = new System.Drawing.Size(339, 436);
+            this.LBChallenges.Size = new System.Drawing.Size(339, 196);
             this.LBChallenges.TabIndex = 24;
+            this.LBChallenges.SelectedIndexChanged += new System.EventHandler(this.LBChallenges_SelectedIndexChanged);
             // 
             // FChallenges
             // 

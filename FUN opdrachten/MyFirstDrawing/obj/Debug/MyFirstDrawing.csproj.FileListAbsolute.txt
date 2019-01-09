@@ -1,0 +1,10 @@
+C:\Users\lars\source\repos\OIS12Oefeningen\MyFirstDrawing\bin\Debug\MyFirstDrawing.exe.config
+C:\Users\lars\source\repos\OIS12Oefeningen\MyFirstDrawing\bin\Debug\MyFirstDrawing.exe
+C:\Users\lars\source\repos\OIS12Oefeningen\MyFirstDrawing\bin\Debug\MyFirstDrawing.pdb
+C:\Users\lars\source\repos\OIS12Oefeningen\MyFirstDrawing\obj\Debug\MyFirstDrawing.csprojResolveAssemblyReference.cache
+C:\Users\lars\source\repos\OIS12Oefeningen\MyFirstDrawing\obj\Debug\MyFirstDrawing.DrawingForm.resources
+C:\Users\lars\source\repos\OIS12Oefeningen\MyFirstDrawing\obj\Debug\MyFirstDrawing.Properties.Resources.resources
+C:\Users\lars\source\repos\OIS12Oefeningen\MyFirstDrawing\obj\Debug\MyFirstDrawing.csproj.GenerateResource.Cache
+C:\Users\lars\source\repos\OIS12Oefeningen\MyFirstDrawing\obj\Debug\MyFirstDrawing.csproj.CoreCompileInputs.cache
+C:\Users\lars\source\repos\OIS12Oefeningen\MyFirstDrawing\obj\Debug\MyFirstDrawing.exe
+C:\Users\lars\source\repos\OIS12Oefeningen\MyFirstDrawing\obj\Debug\MyFirstDrawing.pdb

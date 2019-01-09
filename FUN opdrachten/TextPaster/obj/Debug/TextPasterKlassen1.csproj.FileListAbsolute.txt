@@ -1,0 +1,10 @@
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TextPaster\bin\Debug\TextPaster.exe.config
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TextPaster\bin\Debug\TextPaster.exe
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TextPaster\bin\Debug\TextPaster.pdb
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TextPaster\obj\Debug\TextPasterKlassen1.csprojResolveAssemblyReference.cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TextPaster\obj\Debug\TextPaster.Form1.resources
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TextPaster\obj\Debug\TextPaster.Properties.Resources.resources
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TextPaster\obj\Debug\TextPasterKlassen1.csproj.GenerateResource.Cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TextPaster\obj\Debug\TextPasterKlassen1.csproj.CoreCompileInputs.cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TextPaster\obj\Debug\TextPaster.exe
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TextPaster\obj\Debug\TextPaster.pdb

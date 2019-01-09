@@ -1,0 +1,10 @@
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\DatabaseOefeningDatabases4\bin\Debug\DatabaseOefening.mdf
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\DatabaseOefeningDatabases4\bin\Debug\DatabaseOefening_log.ldf
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\DatabaseOefeningDatabases4\bin\Debug\DatabaseOefeningDatabases4.exe.config
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\DatabaseOefeningDatabases4\bin\Debug\DatabaseOefeningDatabases4.exe
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\DatabaseOefeningDatabases4\bin\Debug\DatabaseOefeningDatabases4.pdb
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\DatabaseOefeningDatabases4\obj\Debug\DatabaseOefeningDatabases4.Properties.Resources.resources
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\DatabaseOefeningDatabases4\obj\Debug\DatabaseOefeningDatabases4.csproj.GenerateResource.Cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\DatabaseOefeningDatabases4\obj\Debug\DatabaseOefeningDatabases4.csproj.CoreCompileInputs.cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\DatabaseOefeningDatabases4\obj\Debug\DatabaseOefeningDatabases4.exe
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\DatabaseOefeningDatabases4\obj\Debug\DatabaseOefeningDatabases4.pdb

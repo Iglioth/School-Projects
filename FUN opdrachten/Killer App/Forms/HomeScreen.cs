@@ -17,5 +17,10 @@ namespace Killer_App
         {
             InitializeComponent();
         }
+
+        private void BChallenges_Click(object sender, EventArgs e)
+        {
+            FChallenges challenges = new FChallenges();
+        }
     }
 }

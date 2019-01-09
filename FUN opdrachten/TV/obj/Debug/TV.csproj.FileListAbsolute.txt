@@ -1,7 +1,6 @@
 C:\Users\Lars\Documents\GitHub\School-Projects\FUN opdrachten\TV\bin\Debug\TV.exe.config
 C:\Users\Lars\Documents\GitHub\School-Projects\FUN opdrachten\TV\bin\Debug\TV.exe
 C:\Users\Lars\Documents\GitHub\School-Projects\FUN opdrachten\TV\bin\Debug\TV.pdb
-C:\Users\Lars\Documents\GitHub\School-Projects\FUN opdrachten\TV\obj\Debug\TV.csprojAssemblyReference.cache
 C:\Users\Lars\Documents\GitHub\School-Projects\FUN opdrachten\TV\obj\Debug\TV.Form1.resources
 C:\Users\Lars\Documents\GitHub\School-Projects\FUN opdrachten\TV\obj\Debug\TV.Properties.Resources.resources
 C:\Users\Lars\Documents\GitHub\School-Projects\FUN opdrachten\TV\obj\Debug\TV.csproj.GenerateResource.cache

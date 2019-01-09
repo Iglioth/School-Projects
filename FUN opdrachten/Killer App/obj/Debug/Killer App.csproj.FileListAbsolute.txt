@@ -16,6 +16,7 @@ C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\Killer App\obj\Deb
 C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\Killer App\obj\Debug\Killer App.csproj.CoreCompileInputs.cache
 C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\Killer App\obj\Debug\Killer App.exe
 C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\Killer App\obj\Debug\Killer App.pdb
-C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\Killer App\bin\Debug\KillerDatabaseV3.0.mdf
 C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\Killer App\obj\Debug\Killer_App.RegisterScreenVitalB.resources
 C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\Killer App\obj\Debug\Killer_App.FormLogIn2.resources
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\Killer App\bin\Debug\KillerDatabaseV.mdf
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\Killer App\bin\Debug\KillerDatabaseV_log.ldf

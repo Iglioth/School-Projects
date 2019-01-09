@@ -1,0 +1,10 @@
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TextHandling\bin\Debug\TextHandling.exe.config
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TextHandling\bin\Debug\TextHandling.exe
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TextHandling\bin\Debug\TextHandling.pdb
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TextHandling\obj\Debug\TextHandling(13, 16).csprojResolveAssemblyReference.cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TextHandling\obj\Debug\TextHandling.FileHandlingForm.resources
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TextHandling\obj\Debug\TextHandling.Properties.Resources.resources
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TextHandling\obj\Debug\TextHandling(13, 16).csproj.GenerateResource.Cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TextHandling\obj\Debug\TextHandling(13, 16).csproj.CoreCompileInputs.cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TextHandling\obj\Debug\TextHandling.exe
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\TextHandling\obj\Debug\TextHandling.pdb

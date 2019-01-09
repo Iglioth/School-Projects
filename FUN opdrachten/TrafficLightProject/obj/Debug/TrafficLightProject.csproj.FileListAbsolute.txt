@@ -1,0 +1,7 @@
+C:\Users\lars\source\repos\OIS12Oefeningen\TrafficLightProject\bin\Debug\TrafficLightProject.exe.config
+C:\Users\lars\source\repos\OIS12Oefeningen\TrafficLightProject\bin\Debug\TrafficLightProject.exe
+C:\Users\lars\source\repos\OIS12Oefeningen\TrafficLightProject\bin\Debug\TrafficLightProject.pdb
+C:\Users\lars\source\repos\OIS12Oefeningen\TrafficLightProject\obj\Debug\TrafficLightProject.csprojResolveAssemblyReference.cache
+C:\Users\lars\source\repos\OIS12Oefeningen\TrafficLightProject\obj\Debug\TrafficLightProject.csproj.CoreCompileInputs.cache
+C:\Users\lars\source\repos\OIS12Oefeningen\TrafficLightProject\obj\Debug\TrafficLightProject.exe
+C:\Users\lars\source\repos\OIS12Oefeningen\TrafficLightProject\obj\Debug\TrafficLightProject.pdb

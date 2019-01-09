@@ -8,3 +8,13 @@ c:\users\lars\source\repos\FUN12Oefeningen\DagenVanDeWeekKlassen1\obj\Debug\Dage
 c:\users\lars\source\repos\FUN12Oefeningen\DagenVanDeWeekKlassen1\obj\Debug\DagenVanDeWeekKlassen1.exe
 c:\users\lars\source\repos\FUN12Oefeningen\DagenVanDeWeekKlassen1\obj\Debug\DagenVanDeWeekKlassen1.pdb
 c:\users\lars\source\repos\FUN12Oefeningen\DagenVanDeWeekKlassen1\obj\Debug\DagenVanDeWeekKlassen1.NummersNaarDagen.resources
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\DagenVanDeWeekKlassen1\bin\Debug\DagenVanDeWeekKlassen1.exe.config
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\DagenVanDeWeekKlassen1\bin\Debug\DagenVanDeWeekKlassen1.exe
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\DagenVanDeWeekKlassen1\bin\Debug\DagenVanDeWeekKlassen1.pdb
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\DagenVanDeWeekKlassen1\obj\Debug\DagenVanDeWeekKlassen1.csprojResolveAssemblyReference.cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\DagenVanDeWeekKlassen1\obj\Debug\DagenVanDeWeekKlassen1.NummersNaarDagen.resources
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\DagenVanDeWeekKlassen1\obj\Debug\DagenVanDeWeekKlassen1.Properties.Resources.resources
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\DagenVanDeWeekKlassen1\obj\Debug\DagenVanDeWeekKlassen1.csproj.GenerateResource.Cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\DagenVanDeWeekKlassen1\obj\Debug\DagenVanDeWeekKlassen1.csproj.CoreCompileInputs.cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\DagenVanDeWeekKlassen1\obj\Debug\DagenVanDeWeekKlassen1.exe
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\DagenVanDeWeekKlassen1\obj\Debug\DagenVanDeWeekKlassen1.pdb

@@ -5,3 +5,10 @@ c:\users\lars\source\repos\FUN12Oefeningen\ConsoleApp1\obj\Debug\HalloConsoleDic
 c:\users\lars\source\repos\FUN12Oefeningen\ConsoleApp1\obj\Debug\HalloConsoleDictaat.csproj.CoreCompileInputs.cache
 c:\users\lars\source\repos\FUN12Oefeningen\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 c:\users\lars\source\repos\FUN12Oefeningen\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\ConsoleApp1\obj\Debug\HalloConsoleDictaat.csprojResolveAssemblyReference.cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\ConsoleApp1\obj\Debug\HalloConsoleDictaat.csproj.CoreCompileInputs.cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

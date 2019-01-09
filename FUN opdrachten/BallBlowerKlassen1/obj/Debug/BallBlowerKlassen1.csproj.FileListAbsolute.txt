@@ -8,3 +8,13 @@ C:\Users\lars\source\repos\FUN12Oefeningen\BallBlowerKlassen1\obj\Debug\BallBlow
 C:\Users\lars\source\repos\FUN12Oefeningen\BallBlowerKlassen1\obj\Debug\BallBlowerKlassen1.csproj.CoreCompileInputs.cache
 C:\Users\lars\source\repos\FUN12Oefeningen\BallBlowerKlassen1\obj\Debug\BallBlowerKlassen1.exe
 C:\Users\lars\source\repos\FUN12Oefeningen\BallBlowerKlassen1\obj\Debug\BallBlowerKlassen1.pdb
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\BallBlowerKlassen1\bin\Debug\BallBlowerKlassen1.exe.config
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\BallBlowerKlassen1\bin\Debug\BallBlowerKlassen1.exe
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\BallBlowerKlassen1\bin\Debug\BallBlowerKlassen1.pdb
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\BallBlowerKlassen1\obj\Debug\BallBlowerKlassen1.csprojResolveAssemblyReference.cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\BallBlowerKlassen1\obj\Debug\BallBlowerKlassen1.Form1.resources
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\BallBlowerKlassen1\obj\Debug\BallBlowerKlassen1.Properties.Resources.resources
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\BallBlowerKlassen1\obj\Debug\BallBlowerKlassen1.csproj.GenerateResource.Cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\BallBlowerKlassen1\obj\Debug\BallBlowerKlassen1.csproj.CoreCompileInputs.cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\BallBlowerKlassen1\obj\Debug\BallBlowerKlassen1.exe
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\BallBlowerKlassen1\obj\Debug\BallBlowerKlassen1.pdb

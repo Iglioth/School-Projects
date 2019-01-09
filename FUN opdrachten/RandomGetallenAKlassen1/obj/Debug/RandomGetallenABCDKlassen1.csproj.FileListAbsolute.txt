@@ -1,0 +1,11 @@
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\RandomGetallenAKlassen1\bin\Debug\RandomGetallenAKlassen1.exe.config
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\RandomGetallenAKlassen1\bin\Debug\RandomGetallenAKlassen1.exe
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\RandomGetallenAKlassen1\bin\Debug\RandomGetallenAKlassen1.pdb
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\RandomGetallenAKlassen1\obj\Debug\RandomGetallenABCDKlassen1.csprojResolveAssemblyReference.cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\RandomGetallenAKlassen1\obj\Debug\RandomGetallenAKlassen1.OddForm.resources
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\RandomGetallenAKlassen1\obj\Debug\RandomGetallenAKlassen1.Properties.Resources.resources
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\RandomGetallenAKlassen1\obj\Debug\RandomGetallenAKlassen1.RandomGetallenFormA.resources
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\RandomGetallenAKlassen1\obj\Debug\RandomGetallenABCDKlassen1.csproj.GenerateResource.Cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\RandomGetallenAKlassen1\obj\Debug\RandomGetallenABCDKlassen1.csproj.CoreCompileInputs.cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\RandomGetallenAKlassen1\obj\Debug\RandomGetallenAKlassen1.exe
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\RandomGetallenAKlassen1\obj\Debug\RandomGetallenAKlassen1.pdb

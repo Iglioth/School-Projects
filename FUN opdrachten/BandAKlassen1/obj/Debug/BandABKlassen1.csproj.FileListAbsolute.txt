@@ -8,3 +8,13 @@ C:\Users\lars\source\repos\FUN12Oefeningen\BandAKlassen1\obj\Debug\BandABKlassen
 C:\Users\lars\source\repos\FUN12Oefeningen\BandAKlassen1\obj\Debug\BandABKlassen1.csproj.CoreCompileInputs.cache
 C:\Users\lars\source\repos\FUN12Oefeningen\BandAKlassen1\obj\Debug\BandAKlassen1.exe
 C:\Users\lars\source\repos\FUN12Oefeningen\BandAKlassen1\obj\Debug\BandAKlassen1.pdb
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\BandAKlassen1\bin\Debug\BandAKlassen1.exe.config
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\BandAKlassen1\bin\Debug\BandAKlassen1.exe
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\BandAKlassen1\bin\Debug\BandAKlassen1.pdb
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\BandAKlassen1\obj\Debug\BandABKlassen1.csprojResolveAssemblyReference.cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\BandAKlassen1\obj\Debug\BandAKlassen1.Form1.resources
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\BandAKlassen1\obj\Debug\BandAKlassen1.Properties.Resources.resources
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\BandAKlassen1\obj\Debug\BandABKlassen1.csproj.GenerateResource.Cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\BandAKlassen1\obj\Debug\BandABKlassen1.csproj.CoreCompileInputs.cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\BandAKlassen1\obj\Debug\BandAKlassen1.exe
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\BandAKlassen1\obj\Debug\BandAKlassen1.pdb

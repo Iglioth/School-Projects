@@ -13,6 +13,7 @@ namespace Killer_App
     public partial class FormLogIn2 : Form
     {
         Database database = new Database();
+        //Forma forma = new Forma();
         public FormLogIn2()
         {
             InitializeComponent();
@@ -24,6 +25,19 @@ namespace Killer_App
             RegisterScreenPersonal registerScreenpersonal = new RegisterScreenPersonal();
             this.Hide();
             registerScreenpersonal.Show();
+        }
+
+        private void Inloggen_Click(object sender, EventArgs e)
+        {
+            if(database.AccountCheck(textBox1.Text, textBox2.Text) == true)
+            {
+                HomeScreen homeScreen = new HomeScreen();
+                this.Hide();
+            }
+            else
+            {
+                MessageBox.Show("Incorrecte Data!");
+            }
         }
     }
 }

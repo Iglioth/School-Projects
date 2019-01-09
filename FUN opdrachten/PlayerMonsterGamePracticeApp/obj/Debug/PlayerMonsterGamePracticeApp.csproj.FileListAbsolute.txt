@@ -1,0 +1,20 @@
+C:\Users\lars\source\repos\OIS12Oefeningen\PlayerMonsterGamePracticeApp\obj\Debug\PlayerMonsterGamePracticeApp.csprojResolveAssemblyReference.cache
+C:\Users\lars\source\repos\OIS12Oefeningen\PlayerMonsterGamePracticeApp\obj\Debug\PlayerMonsterGamePracticeApp.MonsterKillerForm.resources
+C:\Users\lars\source\repos\OIS12Oefeningen\PlayerMonsterGamePracticeApp\obj\Debug\PlayerMonsterGamePracticeApp.Properties.Resources.resources
+C:\Users\lars\source\repos\OIS12Oefeningen\PlayerMonsterGamePracticeApp\obj\Debug\PlayerMonsterGamePracticeApp.csproj.GenerateResource.Cache
+C:\Users\lars\source\repos\OIS12Oefeningen\PlayerMonsterGamePracticeApp\obj\Debug\PlayerMonsterGamePracticeApp.csproj.CoreCompileInputs.cache
+C:\Users\lars\source\repos\OIS12Oefeningen\PlayerMonsterGamePracticeApp\bin\Debug\PlayerMonsterGamePracticeApp.exe.config
+C:\Users\lars\source\repos\OIS12Oefeningen\PlayerMonsterGamePracticeApp\bin\Debug\PlayerMonsterGamePracticeApp.exe
+C:\Users\lars\source\repos\OIS12Oefeningen\PlayerMonsterGamePracticeApp\bin\Debug\PlayerMonsterGamePracticeApp.pdb
+C:\Users\lars\source\repos\OIS12Oefeningen\PlayerMonsterGamePracticeApp\obj\Debug\PlayerMonsterGamePracticeApp.exe
+C:\Users\lars\source\repos\OIS12Oefeningen\PlayerMonsterGamePracticeApp\obj\Debug\PlayerMonsterGamePracticeApp.pdb
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\PlayerMonsterGamePracticeApp\bin\Debug\PlayerMonsterGamePracticeApp.exe.config
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\PlayerMonsterGamePracticeApp\bin\Debug\PlayerMonsterGamePracticeApp.exe
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\PlayerMonsterGamePracticeApp\bin\Debug\PlayerMonsterGamePracticeApp.pdb
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\PlayerMonsterGamePracticeApp\obj\Debug\PlayerMonsterGamePracticeApp.csprojResolveAssemblyReference.cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\PlayerMonsterGamePracticeApp\obj\Debug\PlayerMonsterGamePracticeApp.MonsterKillerForm.resources
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\PlayerMonsterGamePracticeApp\obj\Debug\PlayerMonsterGamePracticeApp.Properties.Resources.resources
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\PlayerMonsterGamePracticeApp\obj\Debug\PlayerMonsterGamePracticeApp.csproj.GenerateResource.Cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\PlayerMonsterGamePracticeApp\obj\Debug\PlayerMonsterGamePracticeApp.csproj.CoreCompileInputs.cache
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\PlayerMonsterGamePracticeApp\obj\Debug\PlayerMonsterGamePracticeApp.exe
+C:\Users\lars\Documents\GitHub\School-Projects\FUN opdrachten\PlayerMonsterGamePracticeApp\obj\Debug\PlayerMonsterGamePracticeApp.pdb

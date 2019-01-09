@@ -19,11 +19,17 @@ namespace Killer_App {
         public FChallenges()
         {
             InitializeComponent();
+            LBChallenges.Text = string.Empty;
         }
 
         private void BHomeUpperLeft_Click(object sender, EventArgs e)
         {
-            
+            this.Hide();
+        }
+
+        private void LBChallenges_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
